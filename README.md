@@ -10,4 +10,3 @@ Fast forward to today and here we are! Moving into week two, I look forawrd to d
 
 # Portfolio
 ## Data Visualization Critique #1 - Version 2.0
-<iframe title="Jeremy Corbyn, Leader of England's Opposition Party, Dominates Likes on Facebook posts, by 5:1, over the Labour Party" aria-label="Column Chart" src="//datawrapper.dwcdn.net/e9gUi/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400"></iframe>
