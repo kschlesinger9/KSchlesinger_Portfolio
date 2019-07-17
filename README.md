@@ -10,7 +10,8 @@ Fast forward to today and here we are! Moving into week two, I look forawrd to d
 
 # Portfolio
 ## Data Visualization Critique #1 - Version 2.0
-https://datawrapper.dwcdn.net/e9gUi/3/ (will upload proper embedded code when I'm not running up against a deadline!)
+https://datawrapper.dwcdn.net/e9gUi/3/
+<iframe title="Jeremy Corbyn, Leader of England's Opposition Party, Dominates Likes on Facebook posts, by 5:1, over the Labour Party" aria-label="Column Chart" id="datawrapper-chart-e9gUi" src="//datawrapper.dwcdn.net/e9gUi/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 ## Data Visualization Critique #2 - Version 2.0
 Overall Observations about Visualization: 
@@ -24,7 +25,7 @@ Take the list of data in Appendix E of the City of Pittsburgh’s 2019 Capital B
 
 ## OIG Data Visualization #1
 # Visual for Analysts at DHS
-<div class="infogram-embed" data-id="08bd9290-7b17-49aa-8b51-30f7950a6401" data-type="interactive" data-title="Copy: OIG Visualization 1/2"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/08bd9290-7b17-49aa-8b51-30f7950a6401" style="color:#989898!important;text-decoration:none!important;" target="_blank">Copy: OIG Visualization 1/2</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
 
 # Visual for Readers of a Newspaper
 <div class="infogram-embed" data-id="0d614463-1efa-4eed-91ab-adf51d502573" data-type="interactive" data-title="Yellow Negative"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/0d614463-1efa-4eed-91ab-adf51d502573" style="color:#989898!important;text-decoration:none!important;" target="_blank">Yellow Negative</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
