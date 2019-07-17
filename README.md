@@ -10,7 +10,6 @@ Fast forward to today and here we are! Moving into week two, I look forawrd to d
 
 # Portfolio
 ## Data Visualization Critique #1 - Version 2.0
-https://datawrapper.dwcdn.net/e9gUi/3/
 <iframe title="Jeremy Corbyn, Leader of England's Opposition Party, Dominates Likes on Facebook posts, by 5:1, over the Labour Party" aria-label="Column Chart" id="datawrapper-chart-e9gUi" src="//datawrapper.dwcdn.net/e9gUi/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 ## Data Visualization Critique #2 - Version 2.0
