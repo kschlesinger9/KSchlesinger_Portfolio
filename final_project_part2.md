@@ -14,3 +14,12 @@ Note: these questions will be used more as a guide since my goal for these brief
 ## Final Wireframe
 
 ## User Feedback Protocol Overview 
+When setting out to find people to review my wireframe, I knew that I needed to identify 3 people that would each have different backgrounds and levels of exposure to working and feeling comfortable with data. Once carefully weighing 5-7 potential interviewees, I narrowed in on three people which included a coworker, a family member, and a friend. 
+
+I created this wireframe intending the primary, targeted audience to be the general public living across the Greater Pittsburgh Region. 
+
+After showing my initial wireframe to these three people, I heard a few common themes that resulted in me adding some things and removing others:
+
+1.	Using something close to the color scheme from the Make my Trip Count logo is a nice touch, but be consistent with the font, style, and size of text when incorporating colors
+2.	While there was unanimity that the style of my wireframe was cool, there were places where arrows were missing between items that made it more difficult to follow and interpret. (Plus, it was also pointed out that this would make it harder on me when I started to design the final form of my project)
+3.	For my call to action/big takeaways, the two messages were strong, but needed some refining and “demystifying” of industry words and phrases used that left some feeling confused
