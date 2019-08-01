@@ -12,12 +12,12 @@ Note: these questions will be used more as a guide since my goal for these brief
 5.	How can I do a better job of incorporating an appropriate color scheme into the text? Are there specific areas of the story that you see needing to be called out by color that aren’t currently?
 
 ## Final Wireframe
-
+![image](https://user-images.githubusercontent.com/52687604/62264976-50c32500-b3f0-11e9-9395-e66a18e6a16d.png)
 
 ## User Feedback Protocol Overview 
 When setting out to find people to review my wireframe, I knew that I needed to identify 3 people that would each have different backgrounds and levels of exposure to working and feeling comfortable with data. Once carefully weighing 5-7 potential interviewees, I narrowed in on three people which included a coworker, a family member, and a friend. 
 
-I created this wireframe intending the primary, targeted audience to be the general public living across the Greater Pittsburgh Region. Ultimately, I envisioned this being a toolkit, used for both educatiional and advocacy purposes, to direct attention to 
+I created this wireframe intending the primary, targeted audience to be the general public living across the Greater Pittsburgh Region. Ultimately, I envisioned this being a toolkit, used for both educatiional and advocacy purposes, to direct attention to how people commute, where people are commuting to and from, and how commuting choices directly influence regional transportation projects. 
 
 After showing my initial wireframe to these three people, I heard several common themes that resulted in me adding some things and removing others:
 
