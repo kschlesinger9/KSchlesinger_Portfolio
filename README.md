@@ -40,3 +40,5 @@ In this scenario, I spent a significant amount of time culling through the repor
 [Link to OECD Assignment #2](/dataviz2.md)
 
 [Link to Final Project Part I](/final_project.md)
+
+[Link to Final Project Part II](/final_project_part2.md)
