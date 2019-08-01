@@ -23,3 +23,4 @@ After showing my initial wireframe to these three people, I heard a few common t
 1.	Using something close to the color scheme from the Make my Trip Count logo is a nice touch, but be consistent with the font, style, and size of text when incorporating colors
 2.	While there was unanimity that the style of my wireframe was cool, there were places where arrows were missing between items that made it more difficult to follow and interpret. (Plus, it was also pointed out that this would make it harder on me when I started to design the final form of my project)
 3.	For my call to action/big takeaways, the two messages were strong, but needed some refining and “demystifying” of industry words and phrases used that left some feeling confused
+4. Portions of the wireframe that were data heavy sometimes lacked enough supporting text to provide sufficient context, especially for those who don't work in the transportation industry
