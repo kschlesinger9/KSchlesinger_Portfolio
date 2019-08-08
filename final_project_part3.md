@@ -12,5 +12,11 @@ at the development of my project.
 
 ## Final Project Part III
 As I began putting my final project together, I quickly realized that I needed some additional feedback to hone and refine my
-charts, maps, and overall content. I gathered a few new friends and colleagues to help give me some input and below is some of the feedback, both positive and negative, I heard that helped me get to the final product:
+charts, maps, and overall content. I gathered a few new friends and colleagues to help give me some input on about half of my story map built out and below is some of the feedback, both positive and room for improvement, I heard that helped me reach the final product:
+
+Positives | Room for Improvement
+------------ | -------------
+Overall content sends a very strong message | Add a third call to action involving individual action and can be reasonably accomplished
+Good choice of style for charts/maps for the selected data| Avoid using excessive amounts of data to reduce intimidation factor
+Story line is intuitive and easy to follow | Substitute some of the text for videos/visual aids when possible
 
