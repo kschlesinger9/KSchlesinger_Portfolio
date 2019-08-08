@@ -29,4 +29,4 @@ Overall, I found that the design of my overall story map was far more challengin
 Finally, 
 
 ## Link to Story Map Page for Final Project
-[Link to Story Map Page](/40f9f5aca37648ebae541b0944559674)
+[Link to Story Map Page](storymaps.arcgis.com/stories/40f9f5aca37648ebae541b0944559674)
