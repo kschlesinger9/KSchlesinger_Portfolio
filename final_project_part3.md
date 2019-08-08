@@ -26,3 +26,7 @@ One of the things I found most difficult while finalizing my story map was trans
 
 Overall, I found that the design of my overall story map was far more challenging to accomplish (thanks to my perfectionist and obsessive tendancies) than finalizing my data visualizations. From the point of determining my data source and goal of the project, I quickly figured out that I wanted to have simple, yet striking visuals to convey Downtown mode split and the total number of survey respondents by destination. For the maps, I also knew that I wanted to visualize the top 20-30 home zip codes for Downtown commuters and to avoid using dense data tables to show this information. 
 
+Finally, 
+
+## Link to Story Map Page for Final Project
+[https://storymaps.arcgis.com/stories/40f9f5aca37648ebae541b0944559674]
