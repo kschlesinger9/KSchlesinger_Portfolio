@@ -26,7 +26,7 @@ One of the things I found most difficult while finalizing my story map was trans
 
 Overall, I found that the design of my overall story map was far more challenging to accomplish (thanks to my perfectionist and obsessive tendancies) than finalizing my data visualizations. From the point of determining my data source and goal of the project, I quickly figured out that I wanted to have simple, yet striking visuals to convey Downtown mode split and the total number of survey respondents by destination. For the maps, I also knew that I wanted to visualize the top 20-30 home zip codes for Downtown commuters and to avoid using dense data tables to show this information. 
 
-Finally, 
+Finally, I wanted to share that because this project is so directly tied to the work that I do on a day-to-day basis at the Pittsburgh Downtown Partnership, I am planning to share my findings and final data visualizations with my team so we can use this information to inform our work moving forward for planning purposes, strategic planning, and communication strategies to connect to the broader public across the Pittsburgh region. I am anxious to hear their feedback, but am genuinely excited and curious to see their reactions to some of my findings about Downtown commuters. 
 
 ## Link to Story Map Page for Final Project
-[Link to Story Map Page](storymaps.arcgis.com/stories/40f9f5aca37648ebae541b0944559674)
+https://storymaps.arcgis.com/stories/40f9f5aca37648ebae541b0944559674
